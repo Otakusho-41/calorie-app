@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Arroz branco cozido",
+    "type": "per_100g",
+    "value": 130.0
+  },
+  {
+    "name": "Feijão carioca cozido",
+    "type": "per_100g",
+    "value": 76.0
+  },
+  {
+    "name": "Banana prata",
+    "type": "per_unit",
+    "value": 89.0
+  },
+  {
+    "name": "Maçã",
+    "type": "per_100g",
+    "value": 52.0
+  },
+  {
+    "name": "Pão francês",
+    "type": "per_unit",
+    "value": 135.0
+  },
+  {
+    "name": "Peito de frango grelhado",
+    "type": "per_100g",
+    "value": 165.0
+  },
+  {
+    "name": "Leite integral",
+    "type": "per_100ml",
+    "value": 61.0
+  }
+]
